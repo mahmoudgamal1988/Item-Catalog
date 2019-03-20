@@ -4,7 +4,7 @@ Udaicty Full Stack Nanodegree's 4th Project, Building a Restaurant Menu Web App.
 
 ## Description
 
-The Item Catalog project consists of a Restaurant Menu Web App which allows the users to login using their Google or Facebook accounts, then they will be able to view, create, update or delete their own restaurants and menusو this app is written in Python3.7 using Flask Framwork, HTML, CSS & Javascript.
+The Item Catalog project consists of a Restaurant Menu Web App which allows the users to login using their Google or Facebook accounts, then they will be able to view, create, update or delete their own restaurants and menusو this app also provides API KSON endpoints to privide the data via API requests, this app is written in Python3.7 using Flask Framwork, HTML, CSS & Javascript.
 
 ## Requirements
 
